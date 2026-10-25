@@ -1,0 +1,6 @@
+{
+  "name": "Trattoria Bella - Real-Time Voice AI Agent",
+  "description": "Real-Time Autonomous Restaurant Voice Concierge with Multi-Intent Tool Calling, SQLite Reservations, and Fail-Closed Allergen Guardrails.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
